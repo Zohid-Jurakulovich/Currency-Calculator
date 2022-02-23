@@ -1,0 +1,18 @@
+.money{
+  padding-top: 70px;
+  text-align: center;
+}
+
+.form{
+  display: inline-block;
+  margin-bottom: 25px;
+}
+
+.result{
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  height: 40px;
+  padding-top: 8px;
+  background-color: rgb(17, 235, 243);
+}
